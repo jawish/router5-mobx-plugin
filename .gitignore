@@ -1,0 +1,11 @@
+# dev and build artifacts
+lib
+node_modules
+
+# misc
+.DS_Store
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
